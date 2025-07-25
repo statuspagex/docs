@@ -1,0 +1,23 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "## Version: 1.0.1",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/statuspagex/docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/statuspagex/docs/issues"
+  },
+  "homepage": "https://github.com/statuspagex/docs#readme",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
